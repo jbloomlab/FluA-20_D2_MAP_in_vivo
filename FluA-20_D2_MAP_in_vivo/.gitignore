@@ -1,6 +1,7 @@
 tignore
 *.out
 
+*.DS_Store
 results/*
 !results/analysis_notebook*
 !results/diffsel/
