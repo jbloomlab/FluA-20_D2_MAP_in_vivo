@@ -1,0 +1,20 @@
+selection,library,replicate,R1
+FluA-20,Lib.1,day2_None,/fh/fast/bloom_j/SR/ngs/illumina/bloom_lab/190923_D00300_0825_BH3L23BCX3/Unaligned/Project_bloom_lab/Sample_WSN_FluA20_day2_None/WSN_FluA20_day2_None_GTCCGC_L001_R1_001.fastq.gz
+FluA-20,Lib.1,day2_Left,/fh/fast/bloom_j/SR/ngs/illumina/bloom_lab/190923_D00300_0825_BH3L23BCX3/Unaligned/Project_bloom_lab/Sample_WSN_FluA20_day2_Left/WSN_FluA20_day2_Left_GTGGCC_L001_R1_001.fastq.gz
+FluA-20,Lib.1,day2_Right,/fh/fast/bloom_j/SR/ngs/illumina/bloom_lab/190923_D00300_0825_BH3L23BCX3/Unaligned/Project_bloom_lab/Sample_WSN_FluA20_day2_Right/WSN_FluA20_day2_Right_GTGAAA_L001_R1_001.fastq.gz
+FluA-20,Lib.1,day3_None,/fh/fast/bloom_j/SR/ngs/illumina/bloom_lab/190923_D00300_0825_BH3L23BCX3/Unaligned/Project_bloom_lab/Sample_WSN_FluA20_day3_None/WSN_FluA20_day3_None_GTTTCG_L001_R1_001.fastq.gz
+FluA-20,Lib.1,day3_Left,/fh/fast/bloom_j/SR/ngs/illumina/bloom_lab/190923_D00300_0825_BH3L23BCX3/Unaligned/Project_bloom_lab/Sample_WSN_FluA20_day3_Left/WSN_FluA20_day3_Left_CAACTA_L001_R1_001.fastq.gz
+FluA-20,Lib.1,day3_Right,/fh/fast/bloom_j/SR/ngs/illumina/bloom_lab/190923_D00300_0825_BH3L23BCX3/Unaligned/Project_bloom_lab/Sample_WSN_FluA20_day3_Right/WSN_FluA20_day3_Right_GAGTGG_L001_R1_001.fastq.gz
+D2_H1-1/H3-1,Lib.1,day2_None,/fh/fast/bloom_j/SR/ngs/illumina/bloom_lab/190923_D00300_0825_BH3L23BCX3/Unaligned/Project_bloom_lab/Sample_WSN_D2_day2_None/WSN_D2_day2_None_CACCGG_L001_R1_001.fastq.gz
+D2_H1-1/H3-1,Lib.1,day2_Left,/fh/fast/bloom_j/SR/ngs/illumina/bloom_lab/190923_D00300_0825_BH3L23BCX3/Unaligned/Project_bloom_lab/Sample_WSN_D2_day2_Left/WSN_D2_day2_Left_CACTCA_L001_R1_001.fastq.gz
+D2_H1-1/H3-1,Lib.1,day2_Right,/fh/fast/bloom_j/SR/ngs/illumina/bloom_lab/190923_D00300_0825_BH3L23BCX3/Unaligned/Project_bloom_lab/Sample_WSN_D2_day2_Right/WSN_D2_day2_Right_CACGAT_L001_R1_001.fastq.gz
+D2_H1-1/H3-1,Lib.1,day3_None,/fh/fast/bloom_j/SR/ngs/illumina/bloom_lab/190923_D00300_0825_BH3L23BCX3/Unaligned/Project_bloom_lab/Sample_WSN_D2_day3_None/WSN_D2_day3_None_CAGGCG_L001_R1_001.fastq.gz
+D2_H1-1/H3-1,Lib.1,day3_Left,/fh/fast/bloom_j/SR/ngs/illumina/bloom_lab/190923_D00300_0825_BH3L23BCX3/Unaligned/Project_bloom_lab/Sample_WSN_D2_day3_Left/WSN_D2_day3_Left_CATTTT_L001_R1_001.fastq.gz
+D2_H1-1/H3-1,Lib.1,day3_Right,/fh/fast/bloom_j/SR/ngs/illumina/bloom_lab/190923_D00300_0825_BH3L23BCX3/Unaligned/Project_bloom_lab/Sample_WSN_D2_day3_Right/WSN_D2_day3_Right_CATGGC_L001_R1_001.fastq.gz
+Mock,Lib.1,day2_None,/fh/fast/bloom_j/SR/ngs/illumina/bloom_lab/190923_D00300_0825_BH3L23BCX3/Unaligned/Project_bloom_lab/Sample_WSN_NoAb_day2_None/WSN_NoAb_day2_None_GCCAAT_L001_R1_001.fastq.gz
+Mock,Lib.1,day2_Right,/fh/fast/bloom_j/SR/ngs/illumina/bloom_lab/190923_D00300_0825_BH3L23BCX3/Unaligned/Project_bloom_lab/Sample_WSN_NoAb_day2_Right/WSN_NoAb_day2_Right_CTTGTA_L001_R1_001.fastq.gz
+Mock,Lib.1,day3_None,/fh/fast/bloom_j/SR/ngs/illumina/bloom_lab/190923_D00300_0825_BH3L23BCX3/Unaligned/Project_bloom_lab/Sample_WSN_NoAb_day3_None/WSN_NoAb_day3_None_AGTCAA_L001_R1_001.fastq.gz
+Mock,Lib.1,day3_Right,/fh/fast/bloom_j/SR/ngs/illumina/bloom_lab/190923_D00300_0825_BH3L23BCX3/Unaligned/Project_bloom_lab/Sample_WSN_NoAb_day3_Right/WSN_NoAb_day3_Right_AGTTCC_L001_R1_001.fastq.gz
+H17L19,Lib.3,day2_100ug_1,/fh/fast/bloom_j/SR/ngs/illumina/bloom_lab/190923_D00300_0825_BH3L23BCX3/Unaligned/Project_bloom_lab/Sample_Lib3-100-1-500ng/Lib3-100-1-500ng_CCAACA_L001_R1_001.fastq.gz
+plasmid, ,WSN_HA,/fh/fast/bloom_j/SR/ngs/illumina/bloom_lab/190923_D00300_0825_BH3L23BCX3/Unaligned/Project_bloom_lab/Sample_WSN_HA_plasmid/WSN_HA_plasmid_ATGTCA_L001_R1_001.fastq.gz
+
